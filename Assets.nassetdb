@@ -1,0 +1,12 @@
+{
+    "378a86a4-d3e4-8575-62aa-f6c3cd36bc67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Spherious_Thumb.tex.nasset"
+    },
+    "3e778fa7-cec8-47a6-bc81-e6670c0dca05": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Spherious Assets"
+    },
+    "guid": "71e239df-6b9f-55c3-9dfe-5290b6798cab"
+}
